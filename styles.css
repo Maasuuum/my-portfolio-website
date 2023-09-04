@@ -60,6 +60,24 @@ nav ul li a:hover{
     
 }
 .details p{
-    
     margin-left: 4%;
+    line-height: 22px;
 }
+
+/* Photo */
+.images{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+}
+
+/* .images img{
+    height: 50%;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    transition: bottom 1s, left 1s;
+} */
